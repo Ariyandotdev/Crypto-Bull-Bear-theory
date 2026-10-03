@@ -67,3 +67,4 @@ How altcoins behaved
 2025-26: ETH again set a high in 2025 (around $4,900, from memory) and is now around $2,600–$2,800, so it is down heavily from that peak. Bitcoin dominance has been falling since late July, and some analysts see early altcoin-season signals
 
 Across cycles, altcoins rally harder in the euphoric stage and fall harder in the bear market. Many never recover their highs, so an altcoin bounce is a much riskier bet than a Bitcoin bounce
+as of 2026 oct this is not working
