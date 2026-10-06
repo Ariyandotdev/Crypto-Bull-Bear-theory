@@ -36,7 +36,7 @@ Each cycle in more detail
 2016-2018: retail mania
 
 The halving in July 2016 was followed by a slow grind, then a vertical run through 2017 driven by ICOs and first-time retail buyers.
-The peak came in December 2017 near $19.7K. It ended in the classic way, with mainstream media saturation and futures launching on CME and Cboe right around the top.
+The peak came in December 2017 near $19.7K. It ended in the classic way, with mainstream media saturation and futures launching on CME and Cboe right around the top,
 The bear market lasted about a year, into December 2018, with a drawdown of around 84%. The fall was slow and grinding, with several failed bounces.
 
 2020-2022: liquidity and leverage
