@@ -23,7 +23,7 @@ Patterns that repeated
 
 3. Bear markets take a long time to recover. The same analysis found recovering to the previous all-time high averaged about 643 days after the bottom. That was around 730 days for 2013 and 2017, and about 480 for 2021, when ETF-era inflows helped.
 
-4. Retail euphoria came before the top, and despair came before the bottom. In 2017 it was ICOs and mainstream hype, and in 2021 it was NFTs, meme coins and leverage. Bottoms brought "Bitcoin is dead" headlines and extreme fear. A June 2026 report had the Fear & Greed index at 18 with Bitcoin near $59.7K.
+4. Retail euphoria came before the top, and despair came before the bottom. In 2017 it was ICOs and mainstream hype, and in 2021 it was NFTs, meme coins and leverage. Bottoms brought "Bitcoin is dead" headlines and extreme fear. A June 2026 report had the Fear & Greed index at 18 with Bitcoin near $59k
 
 5. Altcoins peak late and fall harder. Money tends to rotate from Bitcoin into altcoins near the end of a run. Today's rally already shows early signs of this, with Bitcoin dominance falling since late July.
 
